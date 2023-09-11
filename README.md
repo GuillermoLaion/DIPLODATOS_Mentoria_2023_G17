@@ -1,10 +1,15 @@
 ## Mentoria_pred_dem_2023
 ### Título Mentoría
 Potenciando la estrategia de negocios con Machine Learning: Práctica profesional en predicción de demanda con datos reales
-#### Mentor
+### Mentor
 Sebastián Gabriel Ormaechea. PhD en Ciencias Agropecuarias. Especialización en Ciencia de datos e Investigación científica. Actualmente trabaja en el área de Machine Learning de la empresa Ithreex Global. https://www.linkedin.com/in/ormaecheasg/
 Mail de contacto:
 sormaechea@ithreexglobal.com
+
+### Integrantes
+- Esequiel Armeria
+- Ruber Alfredo Mendoza
+- Guillermo Nicolás Laión 
 
 ### Descripción
 En la era de inteligencia artificial, las organizaciones de diversos sectores se han visto obligadas a incorporar nuevas tecnologías en todas las áreas de su funcionamiento con el fin de mejorar sus procesos, elevar la calidad, aumentar su competitividad, proporcionar valor, satisfacer a sus clientes y ofrecer nuevas experiencias de compra. Un aspecto crucial para lograr una experiencia positiva del consumidor es la rapidez en la entrega de los productos adquiridos. En la actualidad, existen empresas innovadoras que utilizan la ciencia de datos para anticiparse a la distribución de un producto incluso antes de su compra, mediante la predicción de la demanda con cierto grado de certeza. Esto implica un cambio de paradigma hacia un modelo de producción "inteligente" que permita anticipar las ventas futuras y cubrir las necesidades de inventario, reduciendo así el tiempo de entrega y la optimización de los procesos de producción.
@@ -25,40 +30,22 @@ El set de datos corresponde al registro de ventas que comercializa productos de 
 Variables
 
 
-Periodo: Identificador temporal
-
-Fecha: Fecha de venta
-
-NroDocPedido: Identificador del pedido
-
-PosPedido: Posición del pedido
-
-CodMaterial: Identificador del material
-
-Cantidad: Cantidad solicitada del producto. Los valores negativos representan devoluciones.
-
-CodGrupoArt: Identificador de grupo de artículos.
-
-GrupoArticulos: Nombre de cada grupo de artículos.
-
-codGrupoMaterial2: Identificador del grupo de materiales N°2
-
-codGrupoMaterial4: Identificador del grupo de materiales N°4
-
-codGrupoMaterial5: Identificador del grupo de materiales N°5
-
-Tipo_Precio: Tipificación de producto
-
-Departamento: Departamento de ubicación de la sucursal
-
-Localidad: Localidad de ubicación de la sucursal
-
-Provincia: Provincia de ubicación de la sucursal
-
-Pais: País de ubicación de la sucursal
-
-CodCliente_of: Identificador del cliente
-
-CodSucCliente_of: Identificador de la sucursal
-
-FechaPedido: Fecha de venta
+- Periodo: Identificador temporal
+- Fecha: Fecha de venta
+- NroDocPedido: Identificador del pedido
+- PosPedido: Posición del pedido
+- CodMaterial: Identificador del material
+- Cantidad: Cantidad solicitada del producto. Los valores negativos representan devoluciones.
+- CodGrupoArt: Identificador de grupo de artículos.
+- GrupoArticulos: Nombre de cada grupo de artículos.
+- codGrupoMaterial2: Identificador del grupo de materiales N°2
+- codGrupoMaterial4: Identificador del grupo de materiales N°4
+- codGrupoMaterial5: Identificador del grupo de materiales N°5
+- Tipo_Precio: Tipificación de producto
+- Departamento: Departamento de ubicación de la sucursal
+- Localidad: Localidad de ubicación de la sucursal
+- Provincia: Provincia de ubicación de la sucursal
+- Pais: País de ubicación de la sucursal
+- CodCliente_of: Identificador del cliente
+- CodSucCliente_of: Identificador de la sucursal
+- FechaPedido: Fecha de venta
