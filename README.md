@@ -10,7 +10,7 @@ Sebastián Gabriel Ormaechea.
 
 ### Integrantes
 - Esequiel Armeria
-- Ruber Alfredo Mendoza
+- Rubén Alfredo Mendoza
 - Guillermo Nicolás Laión 
 
 ### Descripción
