@@ -2,11 +2,11 @@
 ### Título Mentoría
 Potenciando la estrategia de negocios con Machine Learning: Práctica profesional en predicción de demanda con datos reales
 ### Mentor
-Sebastián Gabriel Ormaechea. PhD en Ciencias Agropecuarias. 
-Especialización en Ciencia de datos e Investigación científica. 
-Actualmente trabaja en el área de Machine Learning de la empresa Ithreex Global. https://www.linkedin.com/in/ormaecheasg/
-Mail de contacto:
-sormaechea@ithreexglobal.com
+Sebastián Gabriel Ormaechea.
+ PhD en Ciencias Agropecuarias. 
+ Especialización en Ciencia de datos e Investigación científica. 
+ Actualmente trabaja en el área de Machine Learning de la empresa Ithreex Global. https://www.linkedin.com/in/ormaecheasg/
+ Mail de contacto: sormaechea@ithreexglobal.com
 
 ### Integrantes
 - Esequiel Armeria
